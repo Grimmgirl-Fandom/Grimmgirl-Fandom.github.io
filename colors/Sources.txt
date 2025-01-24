@@ -1,0 +1,18 @@
+Unfinished and not done well yet sorry 
+
+
+https://www.exploratorium.edu/snacks/three-little-pigments#:~:text=Red%2C%20green%2C%20and%20blue%20are,M%2C%20and%20yellow%20is%20Y.
+https://en.wikipedia.org/wiki/Red
+https://en.wikipedia.org/wiki/Yellow#Etymology
+https://en.wikipedia.org/wiki/Blue
+https://en.wikipedia.org/wiki/Green
+https://rgb.to/rgb
+https://www.colorabout.com/color/rgb/255,0,128/
+https://www.colorcombos.com/colors/80FF00#:~:text=Color%2080FF00%20Description&text=%2380FF00%20Hex%20Color%20for%20the,following%20tags%3A%20CHARTREUSE%2C%20GREEN.
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_target
+https://integritypainting.ca/hue-tint-tone-and-shade-whats-the-difference-2/#:~:text=Hue%3A%20A%20pure%20pigment.,pigment%20with%20just%20black%20added.
+https://stackoverflow.com/questions/1293147/how-to-parse-csv-data
+https://www.w3schools.com/css/tryit.asp?filename=trycss_float_boxes
+https://www.w3schools.com/css/css_navbar.asp
+https://www.w3schools.com/css/css_navbar_horizontal.asp
+https://www.w3schools.com/colors/colors_hex.asp

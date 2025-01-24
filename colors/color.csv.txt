@@ -1,0 +1,14 @@
+Color_Name       ,Hex_value ,R_value ,G_value ,B_value ,C_value ,M_value ,Y_value ,K_value
+Red              ,#FF0000   ,    255 ,      0 ,      0 ,      0 ,    100 ,    100 ,      0
+Yellow           ,#FFFF00   ,    255 ,    255 ,      0 ,      0 ,      0 ,    100 ,      0
+Blue             ,#0000FF   ,      0 ,      0 ,    255 ,    100 ,    100 ,      0 ,      0
+Green            ,#00FF00   ,      0 ,    255 ,      0 ,    100 ,      0 ,    100 ,      0
+Black            ,#000000   ,      0 ,      0 ,      0 ,      0 ,      0 ,      0 ,    100
+White            ,#FFFFFF   ,    255 ,    255 ,    255 ,      0 ,      0 ,      0 ,      0
+Magenta          ,#FF00FF   ,    255 ,      0 ,    255 ,      0 ,    100 ,      0 ,      0
+
+Cyan             ,#00FFFF   ,      0 ,    255 ,    255 ,    100 ,      0 ,      0 ,      0
+Grey             ,#808080   ,    128 ,    128 ,    128 ,      0 ,      0 ,      0 ,     50
+Orange           ,#FF8000   ,    255 ,    128 ,      0 ,      0 ,     50 ,    100 ,      0
+Patriarch_Purple ,#800080   ,    128 ,      0 ,    128 ,      0 ,    100 ,      0 ,     50
+Chartreuse       ,#80ff00   ,    128 ,    255 ,      0 ,     50 ,      0 ,     10 ,      0

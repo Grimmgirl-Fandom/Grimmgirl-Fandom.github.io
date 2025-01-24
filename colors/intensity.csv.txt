@@ -1,0 +1,1 @@
+Color_Name,Mix_type,Hex_value
