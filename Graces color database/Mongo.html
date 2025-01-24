@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Grace's Color Database</title>
+        <ul>
+            <li><a href="/home.html">Home</a></li>
+            <li><a href="/data.html">Data</a></li>
+           <li><a href="/Sources.txt" target="_blank">Sources</a></li>
+           <li><a href="/WebPage.pdf" target="_blank">Slides</a></li>
+
+        </ul>
+    </head>
+    <body>
+      
+<!-- color list, sort by name/hex/cmyk/really everyting-->
+
+<script type="text/javascript" src="clientside.js"></script>
+<br><br><br>
+<button id="mongo1">Color</button>
+<button id="mongo2">Primary</button>
+<button id="mongo3">Mix</button>
+
+
+
+
+
+
+    <style>
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #fd77c2;
+          
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size:30px;
+
+        }
+        
+        li a:hover {
+          background-color: #e20380;
+        }
+
+        .dropbtn {
+  background-color: #fd77c2;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+
+#mongo1{
+  text-align: center;
+  padding: 30px 30px;
+  font-size:45px;
+  width: 250px;
+  border: 15px;
+  border-style:dotted;
+  border-color:#fd77c2;
+  margin: 150px;
+  background-color:white;
+}
+
+#mongo2{
+  text-align: center;
+  padding:30px 30px;
+  font-size:45px;
+  width: 250px;
+  border: 15px;
+  border-style:dotted;
+  border-color:#fd77c2;
+  margin: 20px;
+  background-color:white;
+}
+
+#mongo3{
+  text-align: center;
+  padding:30px 30px;
+  font-size:45px;
+  width: 250px;
+  border: 15px;
+  border-style:dotted;
+  border-color:#fd77c2;
+  margin: 150px;
+  background-color:white;
+}
+
+#mongo1:hover{
+  background-color: #fd77c2;
+  color:white;
+}
+
+#mongo2:hover{
+  background-color: #fd77c2;
+  color:white;
+}
+
+#mongo3:hover{
+  background-color: #fd77c2;
+  color:white;
+}
+
+button:hover{
+
+  background-color: #fd77c2;
+  color:white;
+}
+
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #e20380;}
+
+h1{
+  color:black;
+}
+        </style>
+
+
+<!--<div class="dropdown">
+  <button class="dropbtn">Select a color</button>
+  <div class="dropdown-content">
+    <a href="Javascript:doCheck2()">Link 1</a>
+  </div>
+</div>-->
+
+
+<div id="gt2"></div>
+
+<script>
+
+  document.getElementById("mongo1").addEventListener("click", function() { doCheck2()});
+  document.getElementById("mongo2").addEventListener("click", function() { doCheck5()});
+  document.getElementById("mongo3").addEventListener("click", function() { doCheck6()});
+
+
+
+
+</script>
+
+    </body>
+    </html>
